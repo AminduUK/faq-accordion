@@ -104,7 +104,7 @@ h1 {
     transition: max-height 0.3s ease;
 }
 
-.faq-answer .active {
+.faq-answer.active {
     padding-top: 20px;
     max-height: 500px;
 }
@@ -116,5 +116,5 @@ h1 {
 }
 
 @media (min-width: 768px) {
-    
+
 }
